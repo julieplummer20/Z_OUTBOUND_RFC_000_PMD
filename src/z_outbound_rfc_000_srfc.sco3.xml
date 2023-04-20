@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SCO3" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <SCO3>
+    <OBS_ID>Z_OUTBOUND_RFC_000_SRFC</OBS_ID>
+    <OBS_TYPE>SRFC</OBS_TYPE>
+    <RFC_SERVICE_ID>RFC_GET_SYSTEM_INFO</RFC_SERVICE_ID>
+    <ABAP_LANGUAGE_VERSION>5</ABAP_LANGUAGE_VERSION>
+    <NAME>Z_OUTBOUND_RFC_000_SRFC</NAME>
+    <TYPE>SCO3</TYPE>
+    <DESCRIPTION>Get product data from HANA System using RFC</DESCRIPTION>
+    <ABAP_LANGU_VERSION>5</ABAP_LANGU_VERSION>
+   </SCO3>
+  </asx:values>
+ </asx:abap>
+</abapGit>
