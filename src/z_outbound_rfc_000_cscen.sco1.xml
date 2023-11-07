@@ -40,6 +40,7 @@
       <TEXT>Get product data from HANA System using RFC</TEXT>
      </item>
     </OUTBOUND>
+    <PUBLISH_STATUS>p</PUBLISH_STATUS>
     <PLUGIN_CONFIG>
      <item>
       <UI_OBJECT>cscn_type_selection</UI_OBJECT>
