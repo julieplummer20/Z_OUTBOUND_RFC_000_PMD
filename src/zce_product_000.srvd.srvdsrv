@@ -1,0 +1,4 @@
+@EndUserText.label: 'Expose product data via RFC'
+define service ZCE_PRODUCT_000 {
+  expose zce_product_000 as Products;
+}
