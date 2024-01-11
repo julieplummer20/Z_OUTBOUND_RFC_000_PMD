@@ -1,8 +1,7 @@
 # Z_OUTBOUND_RFC_000_PMD
 Get product data from onP using RFC
 
-Y11
-Cockpit = https://account.int.sap.eu2.hana.ondemand.com/cockpit#/home/allaccounts 
+Consuming system = PMD
 
 
 
