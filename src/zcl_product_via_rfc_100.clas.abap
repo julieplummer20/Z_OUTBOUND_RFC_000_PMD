@@ -18,7 +18,6 @@ ENDCLASS.
 
 CLASS zcl_product_via_rfc_100 IMPLEMENTATION.
 
-
   METHOD if_rap_query_provider~select.
 
     DATA lt_product TYPE STANDARD TABLE OF  zce_product_000 .
